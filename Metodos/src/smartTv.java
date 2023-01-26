@@ -13,7 +13,7 @@ public void aumentarSom(){
 ++ volume;
 System.out.println("aumentando volume" + volume);
 }
-public void abaixarSom(){
+//public void abaixarSom(){
     -- volume;
     System.out.println("abaixando volume" + volume);
 }
