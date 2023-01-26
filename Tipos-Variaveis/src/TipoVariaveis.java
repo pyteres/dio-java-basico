@@ -4,8 +4,8 @@
 //Toda variavel tem que ter um tipo um nome e o seu valor.
 //exemplo:
 //int idade; //tipo int valor idade e o seu nome e  ele tem um valor vazio.
-int anoFabricaçao = 2022; //tipo int nome anoFabricaçao valor 2022.
-double salarioMinimo = 2.500; //tipo double nome salarioMinimo valor 2.500.
+//int anoFabricaçao = 2022; //tipo int nome anoFabricaçao valor 2022.
+//double salarioMinimo = 2.500; //tipo double nome salarioMinimo valor 2.500.
 //usamomos o int por que ela e a variavel que consegue receber o valor maior em numeral inteiro.
 //E usamos o double por que ele consegue receber o valor maior em numeral fracionado. 
 //se voce colocar um tipo em uma variavel o seu valor tem que coresponder aquele tipo por que se nao ela da um erro.
