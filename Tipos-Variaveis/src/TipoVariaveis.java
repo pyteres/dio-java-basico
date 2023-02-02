@@ -1,4 +1,4 @@
-/*public class TipoVariaveis {
+public class TipoVariaveis {
 variavel e um tipo de dado que ocupa um espaço na memoria.
 estrutura da variavel:
 Toda variavel tem que ter um tipo um nome e o seu valor.
@@ -32,4 +32,4 @@ class TipoDado{
       float pi = 3.14f;
       double salario = 1275.33; 
     }
-}*/
+}
